@@ -204,36 +204,72 @@ export const gunpla = [
         "series": "Mobile Suit Gundam: The Witch from Mercury"
     },
     {
+      card: `<div class="card">
+      <img src="/ZZ Gundam Ver. Ka.jpg" alt="ZZ Gundam Ver. Ka MG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">ZZ Gundam Ver. Ka</p>
+      <p class="card-description">$80 - $90</p>
+    </div> `,
         "name": "ZZ Gundam Ver. Ka",
         "type": "Master Grade (MG)",
         "price": "$80 - $90",
         "series": "Mobile Suit Gundam ZZ"
     },
     {
+      card: `<div class="card">
+      <img src="/Gundam Astray Blue Frame.jpg" alt="Gundam Astray Blue Frame HG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">Gundam Astray Blue Frame</p>
+      <p class="card-description">$25 - $30</p>
+    </div> `,
         "name": "Gundam Astray Blue Frame",
         "type": "High Grade (HG)",
         "price": "$25 - $30",
         "series": "Mobile Suit Gundam SEED Astray"
     },
     {
+      card: `<div class="card">
+      <img src="/Zeta Gundam.jpg" alt="Zeta Gundam PG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">Zeta Gundam</p>
+      <p class="card-description">$250 - $300</p>
+    </div> `,
         "name": "Zeta Gundam",
         "type": "Perfect Grade (PG)",
         "price": "$250 - $300",
         "series": "Mobile Suit Zeta Gundam"
     },
     {
+      card: `<div class="card">
+      <img src="/Gundam Dynames.jpg" alt="Gundam Dynames HG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">Gundam Dynames</p>
+      <p class="card-description">$20 - $25</p>
+    </div> `,
         "name": "Gundam Dynames",
         "type": "High Grade (HG)",
         "price": "$20 - $25",
         "series": "Mobile Suit Gundam 00"
     },
     {
+      card: `<div class="card">
+      <img src="/Gundam Deathscythe Hell EW.jpg" alt="Gundam Deathscythe Hell EW MG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">Gundam Deathscythe Hell EW</p>
+      <p class="card-description">$50 - $60</p>
+    </div> `,
         "name": "Gundam Deathscythe Hell EW",
         "type": "Master Grade (MG)",
         "price": "$50 - $60",
         "series": "Mobile Suit Gundam Wing"
     },
     {
+      card: `<div class="card">
+      <img src="/Gundam Ground Type.jpg" alt="Gundam Ground Type EG" class="card-img">
+    <div class="card-content">
+      <p class="card-title">Gundam Ground Type</p>
+      <p class="card-description">$10 - $15</p>
+    </div> `,
         "name": "Gundam Ground Type",
         "type": "Entry Grade (EG)",
         "price": "$10 - $15",
