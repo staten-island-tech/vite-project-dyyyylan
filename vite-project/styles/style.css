@@ -6,7 +6,7 @@ html, * {
 }
 
 body{
-  background-color: aliceblue;
+  background-color: var(--primary);
 }
 
 h1 {
