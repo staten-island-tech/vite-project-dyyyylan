@@ -1,107 +1,203 @@
 export const gunpla = [
     {
+        card: `<div class="card">
+        <img src="/RX-78-2.jpg" alt="RX-78-2 Gundam MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">RX-78-2 Gundam</p>
+        <p class="card-description">$40 - $50</p>
+      </div> `,
         "name": "RX-78-2 Gundam",
         "type": "Master Grade (MG)",
         "price": "$40 - $50",
         "series": "Mobile Suit Gundam"
     },
     {
+        card: `<div class="card">
+        <img src="/Unicorn Gundam 02 Banshee Norn.jpg" alt="Unicorn Gundam 02 Banshee Norn PG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Unicorn Gundam 02 Banshee Norn</p>
+        <p class="card-description">$200 - $300</p>
+      </div> `,
         "name": "Unicorn Gundam 02 Banshee Norn",
         "type": "Perfect Grade (PG)",
         "price": "$200 - $300",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
+        card: `<div class="card">
+        <img src="/Strike Freedom Gundam.jpg" alt="Strike Freedom Gundam RG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Unicorn Gundam 02 Banshee Norn</p>
+        <p class="card-description">$35 - $45</p>
+      </div> `,
         "name": "Strike Freedom Gundam",
         "type": "Real Grade (RG)",
         "price": "$35 - $45",
         "series": "Mobile Suit Gundam SEED Destiny"
     },
     {
+        card: `<div class="card">
+        <img src="/Wing Gundam Zero EW.jpg" alt="Wing Gundam Zero EW MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Wing Gundam Zero EW</p>
+        <p class="card-description">$60 - $70</p>
+      </div> `,
         "name": "Wing Gundam Zero EW",
         "type": "Master Grade (MG)",
         "price": "$60 - $70",
         "series": "Mobile Suit Gundam Wing"
     },
     {
+        card: `<div class="card">
+        <img src="/Gundam Exia.jpg" alt="Gundam Exia PG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Gundam Exia</p>
+        <p class="card-description">$250 - $300</p>
+      </div> `,
         "name": "Gundam Exia",
         "type": "Perfect Grade (PG)",
         "price": "$250 - $300",
         "series": "Mobile Suit Gundam 00"
     },
     {
+        card: `<div class="card">
+        <img src="/Barbatos Lupus Rex.jpg" alt="Barbatos Lupus Rex HG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Barbatos Lupus Rex</p>
+        <p class="card-description">$20 - $25</p>
+      </div> `,
         "name": "Barbatos Lupus Rex",
         "type": "High Grade (HG)",
         "price": "$20 - $25",
         "series": "Mobile Suit Gundam: Iron-Blooded Orphans"
     },
     {
+        card: `<div class="card">
+        <img src="/Sazabi Ver. Ka.jpg" alt="Sazabi Ver. Ka MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Sazabi Ver. Ka</p>
+        <p class="card-description">$90 - $120</p>
+      </div> `,
         "name": "Sazabi Ver. Ka",
         "type": "Master Grade (MG)",
         "price": "$90 - $120",
         "series": "Mobile Suit Gundam: Char's Counterattack"
     },
     {
+        card: `<div class="card">
+        <img src="/Nu Gundam.jpg" alt="Nu Gundam RG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Nu Gundam</p>
+        <p class="card-description">$60 - $70</p>
+      </div> `,
         "name": "Nu Gundam",
         "type": "Real Grade (RG)",
         "price": "$60 - $70",
         "series": "Mobile Suit Gundam: Char's Counterattack"
     },
     {
-        "name": "RX-78-2 Gundam Entry Grade",
-        "type": "Entry Grade (EG)",
-        "price": "$10 - $15",
-        "series": "Mobile Suit Gundam"
-    },
-    {
+        card: `<div class="card">
+        <img src="/Astray Red Frame.jpg" alt="Astray Red Frame MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Astray Red Frame</p>
+        <p class="card-description">$50 - $60</p>
+      </div> `,
         "name": "Astray Red Frame",
         "type": "Master Grade (MG)",
         "price": "$50 - $60",
         "series": "Mobile Suit Gundam SEED Astray"
     },
     {
+        card: `<div class="card">
+        <img src="/Zaku II.jpg" alt="Zaku II HG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Zaku II</p>
+        <p class="card-description">$15 - $20</p>
+      </div> `,
         "name": "Zaku II",
         "type": "High Grade (HG)",
         "price": "$15 - $20",
         "series": "Mobile Suit Gundam"
     },
     {
+        card: `<div class="card">
+        <img src="/Gundam Mk-II Titans.jpg" alt="Gundam Mk-II Titans RG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Gundam Mk-II Titans</p>
+        <p class="card-description">$35 - $45</p>
+      </div> `,
         "name": "Gundam Mk-II Titans",
         "type": "Real Grade (RG)",
         "price": "$35 - $45",
         "series": "Mobile Suit Zeta Gundam"
     },
     {
+        card: `<div class="card">
+        <img src="/Tallgeese EW.jpg" alt="Tallgeese EW MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Tallgeese EW</p>
+        <p class="card-description">$50 - $60</p>
+      </div> `,
         "name": "Tallgeese EW",
         "type": "Master Grade (MG)",
         "price": "$50 - $60",
         "series": "Mobile Suit Gundam Wing"
     },
     {
+        card: `<div class="card">
+        <img src="/RX-0 Unicorn Gundam.jpg" alt="RX-0 Unicorn Gundam PG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">RX-0 Unicorn Gundam</p>
+        <p class="card-description">$220 - $280</p>
+      </div> `,
         "name": "RX-0 Unicorn Gundam",
         "type": "Perfect Grade (PG)",
         "price": "$220 - $280",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
+        card: `<div class="card">
+        <img src="/Sinanju Stein.jpg" alt="Sinanju Stein RG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Sinanju Stein</p>
+        <p class="card-description">$55 - $65</p>
+      </div> `,
         "name": "Sinanju Stein",
         "type": "Real Grade (RG)",
         "price": "$55 - $65",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
+        card: `<div class="card">
+        <img src="/Gundam Barbatos.jpg" alt="Gundam Barbatos HG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Gundam Barbatos</p>
+        <p class="card-description">$20 - $25</p>
+      </div> `,
         "name": "Gundam Barbatos",
         "type": "High Grade (HG)",
         "price": "$20 - $25",
         "series": "Mobile Suit Gundam: Iron-Blooded Orphans"
     },
     {
+        card: `<div class="card">
+        <img src="/Gundam F91.jpg" alt="Gundam F91 MG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Gundam F91</p>
+        <p class="card-description">$40 - $50</p>
+      </div> `,
         "name": "Gundam F91",
         "type": "Master Grade (MG)",
         "price": "$40 - $50",
         "series": "Mobile Suit Gundam F91"
     },
     {
+        card: `<div class="card">
+        <img src="/Gundam Aerial.jpg" alt="Gundam Aerial EG" class="card-img">
+      <div class="card-content">
+        <p class="card-title">Gundam Aerial</p>
+        <p class="card-description">$10 - $15</p>
+      </div> `,
         "name": "Gundam Aerial",
         "type": "Entry Grade (EG)",
         "price": "$10 - $15",
@@ -118,12 +214,6 @@ export const gunpla = [
         "type": "High Grade (HG)",
         "price": "$25 - $30",
         "series": "Mobile Suit Gundam SEED Astray"
-    },
-    {
-        "name": "Freedom Gundam",
-        "type": "Real Grade (RG)",
-        "price": "$35 - $45",
-        "series": "Mobile Suit Gundam SEED"
     },
     {
         "name": "Zeta Gundam",
