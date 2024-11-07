@@ -8,7 +8,7 @@ export const gunpla = [
       </div> `,
         "name": "RX-78-2 Gundam",
         "type": "Master Grade (MG)",
-        "price": "$40 - $50",
+        "price": "45",
         "series": "Mobile Suit Gundam"
     },
     {
@@ -20,19 +20,19 @@ export const gunpla = [
       </div> `,
         "name": "Unicorn Gundam 02 Banshee Norn",
         "type": "Perfect Grade (PG)",
-        "price": "$200 - $300",
+        "price": "250",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
         card: `<div class="card">
         <img src="/Strike Freedom Gundam.jpg" alt="Strike Freedom Gundam RG" class="card-img">
       <div class="card-content">
-        <p class="card-title">Unicorn Gundam 02 Banshee Norn</p>
+        <p class="card-title">Strike Freedom Gundamn</p>
         <p class="card-description">$35 - $45 | Grade: RG</p>
       </div> `,
         "name": "Strike Freedom Gundam",
         "type": "Real Grade (RG)",
-        "price": "$35 - $45",
+        "price": "40",
         "series": "Mobile Suit Gundam SEED Destiny"
     },
     {
@@ -44,7 +44,7 @@ export const gunpla = [
       </div> `,
         "name": "Wing Gundam Zero EW",
         "type": "Master Grade (MG)",
-        "price": "$60 - $70",
+        "price": "65",
         "series": "Mobile Suit Gundam Wing"
     },
     {
@@ -56,7 +56,7 @@ export const gunpla = [
       </div> `,
         "name": "Gundam Exia",
         "type": "Perfect Grade (PG)",
-        "price": "$250 - $300",
+        "price": "275",
         "series": "Mobile Suit Gundam 00"
     },
     {
@@ -68,7 +68,7 @@ export const gunpla = [
       </div> `,
         "name": "Barbatos Lupus Rex",
         "type": "High Grade (HG)",
-        "price": "$20 - $25",
+        "price": "22.5",
         "series": "Mobile Suit Gundam: Iron-Blooded Orphans"
     },
     {
@@ -80,7 +80,7 @@ export const gunpla = [
       </div> `,
         "name": "Sazabi Ver. Ka",
         "type": "Master Grade (MG)",
-        "price": "$90 - $120",
+        "price": "105",
         "series": "Mobile Suit Gundam: Char's Counterattack"
     },
     {
@@ -92,7 +92,7 @@ export const gunpla = [
       </div> `,
         "name": "Nu Gundam",
         "type": "Real Grade (RG)",
-        "price": "$60 - $70",
+        "price": "65",
         "series": "Mobile Suit Gundam: Char's Counterattack"
     },
     {
@@ -104,7 +104,7 @@ export const gunpla = [
       </div> `,
         "name": "Astray Red Frame",
         "type": "Master Grade (MG)",
-        "price": "$50 - $60",
+        "price": "55",
         "series": "Mobile Suit Gundam SEED Astray"
     },
     {
@@ -116,7 +116,7 @@ export const gunpla = [
       </div> `,
         "name": "Zaku II",
         "type": "High Grade (HG)",
-        "price": "$15 - $20",
+        "price": "17.5",
         "series": "Mobile Suit Gundam"
     },
     {
@@ -128,7 +128,7 @@ export const gunpla = [
       </div> `,
         "name": "Gundam Mk-II Titans",
         "type": "Real Grade (RG)",
-        "price": "$35 - $45",
+        "price": "40",
         "series": "Mobile Suit Zeta Gundam"
     },
     {
@@ -140,7 +140,7 @@ export const gunpla = [
       </div> `,
         "name": "Tallgeese EW",
         "type": "Master Grade (MG)",
-        "price": "$50 - $60",
+        "price": "55",
         "series": "Mobile Suit Gundam Wing"
     },
     {
@@ -152,7 +152,7 @@ export const gunpla = [
       </div> `,
         "name": "RX-0 Unicorn Gundam",
         "type": "Perfect Grade (PG)",
-        "price": "$220 - $280",
+        "price": "250",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
@@ -164,7 +164,7 @@ export const gunpla = [
       </div> `,
         "name": "Sinanju Stein",
         "type": "Real Grade (RG)",
-        "price": "$55 - $65",
+        "price": "60",
         "series": "Mobile Suit Gundam Unicorn"
     },
     {
@@ -176,7 +176,7 @@ export const gunpla = [
       </div> `,
         "name": "Gundam Barbatos",
         "type": "High Grade (HG)",
-        "price": "$20 - $25",
+        "price": "22.5",
         "series": "Mobile Suit Gundam: Iron-Blooded Orphans"
     },
     {
@@ -188,7 +188,7 @@ export const gunpla = [
       </div> `,
         "name": "Gundam F91",
         "type": "Master Grade (MG)",
-        "price": "$40 - $50",
+        "price": "45",
         "series": "Mobile Suit Gundam F91"
     },
     {
@@ -200,7 +200,7 @@ export const gunpla = [
       </div> `,
         "name": "Gundam Aerial",
         "type": "Entry Grade (EG)",
-        "price": "$10 - $15",
+        "price": "12.5",
         "series": "Mobile Suit Gundam: The Witch from Mercury"
     },
     {
@@ -212,7 +212,7 @@ export const gunpla = [
     </div> `,
         "name": "ZZ Gundam Ver. Ka",
         "type": "Master Grade (MG)",
-        "price": "$80 - $90",
+        "price": "85",
         "series": "Mobile Suit Gundam ZZ"
     },
     {
@@ -224,7 +224,7 @@ export const gunpla = [
     </div> `,
         "name": "Gundam Astray Blue Frame",
         "type": "High Grade (HG)",
-        "price": "$25 - $30",
+        "price": "27.5",
         "series": "Mobile Suit Gundam SEED Astray"
     },
     {
@@ -236,7 +236,7 @@ export const gunpla = [
     </div> `,
         "name": "Zeta Gundam",
         "type": "Perfect Grade (PG)",
-        "price": "$250 - $300",
+        "price": "275",
         "series": "Mobile Suit Zeta Gundam"
     },
     {
@@ -248,7 +248,7 @@ export const gunpla = [
     </div> `,
         "name": "Gundam Dynames",
         "type": "High Grade (HG)",
-        "price": "$20 - $25",
+        "price": "$22.5",
         "series": "Mobile Suit Gundam 00"
     },
     {
@@ -260,7 +260,7 @@ export const gunpla = [
     </div> `,
         "name": "Gundam Deathscythe Hell EW",
         "type": "Master Grade (MG)",
-        "price": "$50 - $60",
+        "price": "55",
         "series": "Mobile Suit Gundam Wing"
     },
     {
@@ -272,7 +272,7 @@ export const gunpla = [
     </div> `,
         "name": "Gundam Ground Type",
         "type": "Entry Grade (EG)",
-        "price": "$10 - $15",
+        "price": "12.5",
         "series": "Mobile Suit Gundam: The 08th MS Team"
     }
 ]

@@ -22,25 +22,26 @@
     margin-top: 0;
     border: solid black;
     border-radius: 5%;
+    box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
   }
   .card::after {
     content: "ADD TO CART";
-    padding-top: 1rem;
-    padding-left: 1.2rem;
+    text-align: center;
+    font-size: 2rem;
     position: absolute;
-    left: 0;
     bottom: -60px;
     background: #00AC7C;
-    color: #fff;
-    height: 2.3rem;
-    width: 95%;
+    color: #FFFFFF;
+    height: 3rem;
+    width: 100%;
     transition: all 80ms;
     font-weight: 600;
     opacity: 0;
+    border-radius: 10px;
   }
   
   .card-title {
-    font-size: 2.25rem;
+    font-size: 2.2rem;
     position: absolute;
     left: 1rem;
     bottom: 1.25rem;
@@ -73,3 +74,48 @@
     content: "Added !";
     color: var(--tertiary);
   }
+
+  .button {
+    font-size: 2rem;
+    box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
+    position: sticky;
+
+  }
+#clear {
+    top: 15rem;
+}
+
+#sortbylow {
+    top: 23rem;
+    right: 1000rem;
+}
+
+#sortbyhigh {
+    top: 31rem;
+    right: 1000rem;
+}
+
+#MG {
+    top: 39rem;
+    right: 1000rem;
+}
+
+#EG {
+    top: 47rem;
+    right: 1000rem;
+}
+
+#RG {
+    top: 55rem;
+    right: 1000rem;
+}
+
+#HG {
+   top: 63rem;
+   right: 1000rem;
+}
+
+#PG {
+  top: 71rem;
+  right: 1000rem;
+}
