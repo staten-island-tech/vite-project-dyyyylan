@@ -7,5 +7,5 @@ export const DOMSelectors = {
     EG: document.querySelector('#EG'),
     RG: document.querySelector('#RG'),
     HG: document.querySelector('#HG'),
-    PG:document.querySelector('#PG'),
+    PG: document.querySelector('#PG'),
 }
