@@ -1,12 +1,15 @@
 @import url(flexboxpart.css);
 @import url(colors.css);
 
+
+
+
 html, * {
   font-size: 10px;
 }
 
 body{
-  background-color: var(--primary);
+  background-color: gray
 }
 
 h1 {

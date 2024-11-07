@@ -1,3 +1,4 @@
-const DOMSelectors = {
-container: document.querySelector('.container'),
+export const DOMSelectors = {
+    container: document.querySelector('.container'),
+    
 }
