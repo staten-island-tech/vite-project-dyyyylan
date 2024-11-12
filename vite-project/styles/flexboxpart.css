@@ -8,13 +8,13 @@
   }
   
   .card {
-    position: relative;
     right: 9rem;
     width: 20%;
     height: 45vh;
     cursor: pointer;
     transition: all 120ms;
     display: flex;
+    flex-direction: column;
     align-items: center;
     justify-content: center;
     background: var(--primary);
@@ -24,63 +24,28 @@
     border-radius: 15px;
     box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
   }
-  .card::after {
-    content: "ADD TO CART";
-    text-align: center;
-    font-size: 2rem;
-    position: absolute;
-    bottom: -60px;
-    background: #00AC7C;
-    color: #FFFFFF;
-    height: 3rem;
-    width: 100%;
-    transition: all 80ms;
-    font-weight: 600;
-    opacity: 0;
-    border-radius: 10px;
-  }
   
   .card-title {
+    text-align: left;
     font-size: 2.2rem;
-    position: absolute;
-    left: 1rem;
-    bottom: 1.25rem;
   }
   
   .card-description {
-    position: absolute;
+    text-align: left;
     font-size: 2rem;
-    left: 1rem;
-    bottom: -.75rem;
   }
   
   .card-img {
-    position: absolute;
-    top: 1rem;
     width: 90%;
-    height: 77%;
-  }
-  
-  .card:hover::after {
-    bottom: 0;
-    opacity: 1;
-  }
-  
-  .card:active {
-    transform: scale(0.98);
-  }
-  
-  .card:active::after {
-    content: "Added !";
-    color: var(--tertiary);
+    height: 70%;
   }
 
   .button {
     font-size: 2rem;
     box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
     position: sticky;
-
   }
+  
 #clear {
     top: 15rem;
 }
@@ -117,5 +82,10 @@
 
 #PG {
   top: 71rem;
+  right: 1000rem;
+}
+
+#theme {
+  top:79rem;
   right: 1000rem;
 }
