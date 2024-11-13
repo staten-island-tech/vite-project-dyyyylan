@@ -7,9 +7,9 @@
     --darksecondary: #FFFFFF;
     --darktertiary: black;
 
-    --primary: #FFFFFF;
-    --secondary:#096bd3;
-    --tertiary:grey;
+    --primary: rgb(215, 255, 253);
+    --secondary: black;
+    --tertiary: rgb(255, 255, 255);
 }
 
 .darkmode {
