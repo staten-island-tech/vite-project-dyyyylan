@@ -1,14 +1,14 @@
 export const gunpla = [
     {
         card: `<div class="card">
-        <img src="/RX-78-2.jpg" alt="RX-78-2 Gundam MG" class="card-img">
+        <img src="/RX-78-2.jpg" alt="RX-78-2 Gundam EG" class="card-img">
       <div class="card-content">
         <p class="card-title">RX-78-2 Gundam</p>
-        <p class="card-description">$40 - $50 | Grade: MG </p>
+        <p class="card-description">$15 - 25 | Grade: EG </p>
       </div> `,
         "name": "RX-78-2 Gundam",
-        "type": "mg",
-        "price": "45",
+        "type": "eg",
+        "price": "20",
         "series": "Mobile Suit Gundam"
     },
     {
@@ -181,14 +181,14 @@ export const gunpla = [
     },
     {
         card: `<div class="card">
-        <img src="/Gundam F91.jpg" alt="Gundam F91 MG" class="card-img">
+        <img src="/Gundam F91.jpg" alt="Gundam F91 EG" class="card-img">
       <div class="card-content">
         <p class="card-title">Gundam F91</p>
-        <p class="card-description">$40 - $50 | Grade: MG</p>
+        <p class="card-description">$15 - $25 | Grade: EG</p>
       </div> `,
         "name": "Gundam F91",
-        "type": "mg",
-        "price": "45",
+        "type": "eg",
+        "price": "20",
         "series": "Mobile Suit Gundam F91"
     },
     {

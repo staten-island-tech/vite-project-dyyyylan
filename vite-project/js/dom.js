@@ -8,4 +8,6 @@ export const DOMSelectors = {
     RG: document.querySelector('#RG'),
     HG: document.querySelector('#HG'),
     PG: document.querySelector('#PG'),
+    theme1: document.querySelector('#theme1'),
+    theme2: document.querySelector('#theme2'),
 }

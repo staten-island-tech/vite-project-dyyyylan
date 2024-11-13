@@ -1,7 +1,8 @@
 import "../styles/style.css";
 import { gunpla } from './gundam';
 import { DOMSelectors } from "./dom";
-import { insert, sortpricelowhigh, sortpricehighlow, sortmg, sorteg, sortrg, sorthg, sortpg } from "./filt";
+import { insert, sortpricelowhigh, sortpricehighlow, sortmg, sorteg, sortrg, sorthg, sortpg} from "./filt";
+import { theme } from "./mode";
 
 insert(gunpla);
 
@@ -36,3 +37,5 @@ DOMSelectors.HG.addEventListener("click", function() {
 DOMSelectors.PG.addEventListener("click", function() {
     sortpg(gunpla);
 })
+
+theme(DOMSelectors.theme1, DOMSelectors.theme2)

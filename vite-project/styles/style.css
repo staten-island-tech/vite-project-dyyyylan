@@ -2,14 +2,12 @@
 @import url(colors.css);
 
 
-
-
 html, * {
   font-size: 10px;
 }
 
 body{
-  background-color: gray
+  background-color: var(--tertiary);
 }
 
 h1 {
@@ -18,6 +16,7 @@ h1 {
   margin-bottom: 6rem;
   margin: auto;
   background-color: var(--primary);
+  color: var(--secondary);
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   border: solid 4px black;
   border-radius: 15px;

@@ -1,5 +1,25 @@
 :root {
+    --lightprimary: rgb(215, 255, 253);
+    --lightsecondary: black;
+    --lighttertiary: rgb(255, 255, 255);
+
+    --darkprimary: #24041e;
+    --darksecondary: #FFFFFF;
+    --darktertiary: black;
+
     --primary: #FFFFFF;
-    --secondary: red;
-    --tertiary: blue;
+    --secondary:#096bd3;
+    --tertiary:grey;
 }
+
+.darkmode {
+--primary: var(--darkprimary);
+--secondary: var(--darksecondary);
+--tertiary: var(--darktertiary)
+  }
+  
+.lightmode {
+    --primary: var(--lightprimary);
+    --secondary: var(--lightsecondary);
+    --tertiary: var(--lighttertiary)
+  }

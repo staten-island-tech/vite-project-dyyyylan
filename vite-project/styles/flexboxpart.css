@@ -8,19 +8,16 @@
   }
   
   .card {
-    right: 9rem;
     width: 20%;
     height: 45vh;
     cursor: pointer;
-    transition: all 120ms;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     background: var(--primary);
     margin: 5rem;
-    margin-top: 0;
-    border: solid black;
+    border: solid var(--secondary);
     border-radius: 15px;
     box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
   }
@@ -28,11 +25,13 @@
   .card-title {
     text-align: left;
     font-size: 2.2rem;
+    color: var(--secondary);
   }
   
   .card-description {
     text-align: left;
     font-size: 2rem;
+    color: var(--secondary);
   }
   
   .card-img {
@@ -41,51 +40,63 @@
   }
 
   .button {
+    background-color: var(--primary);
     font-size: 2rem;
+    color: var(--secondary);
     box-shadow: 4px 8px 19px -3px rgba(0, 0, 0, 0.27);
     position: sticky;
   }
   
 #clear {
-    top: 15rem;
+    top: 7rem;
 }
 
 #sortbylow {
-    top: 23rem;
+    top: 15rem;
     right: 1000rem;
 }
 
 #sortbyhigh {
-    top: 31rem;
+    top: 23rem;
     right: 1000rem;
 }
 
 #MG {
-    top: 39rem;
+    top: 31rem;
     right: 1000rem;
 }
 
 #EG {
-    top: 47rem;
+    top: 39rem;
     right: 1000rem;
 }
 
 #RG {
-    top: 55rem;
+    top: 47rem;
     right: 1000rem;
 }
 
 #HG {
-   top: 63rem;
+   top: 55rem;
    right: 1000rem;
 }
 
 #PG {
-  top: 71rem;
+  top: 63rem;
   right: 1000rem;
 }
 
 #theme {
+  top:71rem;
+  right: 1000rem;
+}
+
+#theme1 {
+  top:71rem;
+  right: 1000rem;
+}
+
+#theme2 {
   top:79rem;
   right: 1000rem;
 }

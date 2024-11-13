@@ -39,7 +39,3 @@ export function sortpg(array) {
     const w = array.filter((g) => g.type == "pg")
     insert(w)
 }
-
-export function theme() {
-    
-}
